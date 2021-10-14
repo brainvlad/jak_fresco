@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url(../img/white-paper.jpg);
+    background: radial-gradient(circle, rgba(63,94,251,0.10407913165266103) 0%, rgba(252,70,107,0.10127801120448177) 100%);
     font-family: 'Open Sans', sans-serif;
     color: #181520;
 }
